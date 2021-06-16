@@ -37,5 +37,3 @@ In PGAdmin, create a new database (covid.sql/covid_19.sql)
 This is the repo for the ETL project of UMN Data Analytics Bootcamp
 
 
-© 2021 GitHub, Inc.
-# etlcovid_hw
